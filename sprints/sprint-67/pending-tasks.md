@@ -1,8 +1,9 @@
-interns KT
-oncall pod task distribution
-studying postgres 
+- [] P1 interns KT
+- [x] P0 oncall pod task distribution [DONE]
+- P2 studying postgres 
   - types of locks
   - isolation levels
-sap documentation
-sap processing processable unprocessed events (yes, the vocab is intentional)
-planning - task pickup for sprint-67
+- P1 sap documentation [DONE]
+- P0 sap processing the processable unprocessed events (yes, the vocab is intentional)
+- P0 planning - task pickup for sprint-67 [DONE] [MOSTLY]
+- P0 schedule call with Finance team to clear expectations
