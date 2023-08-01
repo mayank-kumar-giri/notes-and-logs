@@ -1,0 +1,2 @@
+- When we reduce base_inprogress_qty, Financial Inventory's action log of reduction is not being created - It should be for action_log reading consistency.
+- 

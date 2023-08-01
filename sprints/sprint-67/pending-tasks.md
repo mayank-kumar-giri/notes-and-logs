@@ -1,16 +1,9 @@
-# To Dos
-- P1 Study event storming
+# Done
 - P0 Expiry Lock
 - P0 Auto Replenishment Changes and Fixes
 - P2 SAP payloads from SJain
 - P1 Interns tickets self approach deciding and discussion
 - P0 TMH Ticket further progress
-- P2 SAP New Issues update
-- P0 studying postgres 
-  - types of locks
-  - isolation levels
-
-# Completed
 - P0 Auto Replenishment PR Review Changes
 - P0 SAP Del Challan debug
 - P0 SAP Reply Divyam
