@@ -1,0 +1,5 @@
+- Odin - Sender/Receiver Dev Complete
+- Need to discuss that Shreya-finance-task with Sankar
+- Need to go through Careplan docs, compare with Odin and derive a common structure
+- Make HLD LLD for FAS using the existing flow diagram
+- 
